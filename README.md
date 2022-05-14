@@ -3,6 +3,7 @@
 A collection of imgui stuff
 
 - [x] WPGU Renderer
+- [X] Easy framework
 - [X] Notification Toasts
 	- [ ] icons
 - [ ] Memory viewer
