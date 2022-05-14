@@ -1,6 +1,7 @@
 #![warn(clippy::all)]
 
 pub mod notify;
+pub mod memory;
 
 #[cfg(feature = "renderer")]
 mod texture;

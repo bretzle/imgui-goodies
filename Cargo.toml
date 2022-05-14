@@ -22,3 +22,7 @@ imgui-winit-support = { git = "https://github.com/imgui-rs/imgui-rs", optional =
 [[example]]
 name = "notify"
 required-features = ["framework"]
+
+[[example]]
+name = "memory"
+required-features = ["framework"]
